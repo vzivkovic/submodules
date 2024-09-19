@@ -1,6 +1,6 @@
 # submodules
 
-## v1
+## v2
 
 echo "# submodules" >> README.md
 git init
